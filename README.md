@@ -202,5 +202,7 @@ Dynamic Response Generation
 ✅ **Scalable**: Can handle new emotions with retraining
 
 ---
-##IPSHITA BHARDWAJ
-###B.Tech Robotics & Artificial Intelligence (Department of Emerging Technologies)
+## IPSHITA BHARDWAJ
+### B.Tech Robotics & Artificial Intelligence (Department of Emerging Technologies)
+---
+https://aicomfortpet.streamlit.app/
